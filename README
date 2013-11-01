@@ -1,0 +1,1 @@
+按照 Second iOS app tutorial 编写完成后，发现从addView中输入完文本后返回masterView后，并未添加新的鸟的种类。后舍弃tutorial中利用UITextdelegate来完成文本框输入的segue，直接将两个文本框的Outlet连接到addView的ViewController后，程序一切正常。
